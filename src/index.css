@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@400;700&family=Spartan:wght@400;700&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: url("./assets/background-stars.svg"), rgb(7, 7, 36);
+  font-family: 'Spartan', sans-serif;
+}
+
+h1 {
+  font-family: 'Antonio', sans-serif;
+}
