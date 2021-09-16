@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/planets-fact/static/css/main.801024a4.chunk.css",
+    "main.js": "/planets-fact/static/js/main.8d5d46f1.chunk.js",
+    "main.js.map": "/planets-fact/static/js/main.8d5d46f1.chunk.js.map",
+    "runtime-main.js": "/planets-fact/static/js/runtime-main.ae38ab1d.js",
+    "runtime-main.js.map": "/planets-fact/static/js/runtime-main.ae38ab1d.js.map",
+    "static/js/2.0621a4f3.chunk.js": "/planets-fact/static/js/2.0621a4f3.chunk.js",
+    "static/js/2.0621a4f3.chunk.js.map": "/planets-fact/static/js/2.0621a4f3.chunk.js.map",
+    "index.html": "/planets-fact/index.html",
+    "static/css/main.801024a4.chunk.css.map": "/planets-fact/static/css/main.801024a4.chunk.css.map",
+    "static/js/2.0621a4f3.chunk.js.LICENSE.txt": "/planets-fact/static/js/2.0621a4f3.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/planets-fact/static/media/background-stars.f6233a6a.svg",
+    "static/media/icon-hamburger.05a40a49.svg": "/planets-fact/static/media/icon-hamburger.05a40a49.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae38ab1d.js",
+    "static/js/2.0621a4f3.chunk.js",
+    "static/css/main.801024a4.chunk.css",
+    "static/js/main.8d5d46f1.chunk.js"
+  ]
+}
